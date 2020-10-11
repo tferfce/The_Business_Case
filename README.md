@@ -7,4 +7,5 @@ First assignment of Code.hub powered by Pfizer
 * Due to many workspaces be sure the test package contains the class TestingFinal which
 is the last testing for the Entire Application
 
-Thanks
+Best Regards,
+Thomas Ferfelis
