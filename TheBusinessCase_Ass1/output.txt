@@ -1,0 +1,12 @@
+Number of Transactions for Customer 1 = 2
+Number of Transactions for Customer = 1
+Transactions Of Product x2 = 2
+Total Cost Of product x2 = 4000.0
+Transactions Of Product x1 = 1
+Total Cost Of product x1 = 1000.0
+Total Purchases of Customer 1 = 4000.0
+Total Purchases of Customer = 1000.0
+Total Purchases of ALL Customers = 5000.0
+Total Number of Sold Products = 3
+Total Number of Transactions For ALL Customers = 3
+Total Balance of Sold Products = 5000.0

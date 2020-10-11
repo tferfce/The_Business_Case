@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="56be979f-b57b-4131-80d5-aca6b4a40a77" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/gr/codehub/ferfelis/ass1/Test/InventoryRetailStoreTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/codehub/ferfelis/ass1/Test/SimpleRetailStoreTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/codehub/ferfelis/ass1/global/DeliveryStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/codehub/ferfelis/ass1/model/InventoryRetailStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/codehub/ferfelis/ass1/model/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/codehub/ferfelis/ass1/model/OrdersInventoryRetailStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TheBusinessCase_Ass1/META-INF/TheBusinessCase_Ass1.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TheBusinessCase_Ass1/gr/codehub/ferfelis/ass1/Test/CustomerTesting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TheBusinessCase_Ass1/gr/codehub/ferfelis/ass1/Test/CustomerTesting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TheBusinessCase_Ass1/gr/codehub/ferfelis/ass1/Test/OnlineCustomerTesting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TheBusinessCase_Ass1/gr/codehub/ferfelis/ass1/Test/OnlineCustomerTesting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TheBusinessCase_Ass1/gr/codehub/ferfelis/ass1/app/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TheBusinessCase_Ass1/gr/codehub/ferfelis/ass1/app/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TheBusinessCase_Ass1/gr/codehub/ferfelis/ass1/global/customerCategory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TheBusinessCase_Ass1/gr/codehub/ferfelis/ass1/global/customerCategory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TheBusinessCase_Ass1/gr/codehub/ferfelis/ass1/model/OnlineCustomer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TheBusinessCase_Ass1/gr/codehub/ferfelis/ass1/model/OnlineCustomer$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TheBusinessCase_Ass1/gr/codehub/ferfelis/ass1/model/OnlineCustomer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TheBusinessCase_Ass1/gr/codehub/ferfelis/ass1/model/OnlineCustomer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TheBusinessCase_Ass1/gr/codehub/ferfelis/ass1/model/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TheBusinessCase_Ass1/gr/codehub/ferfelis/ass1/model/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TheBusinessCase_Ass1/gr/codehub/ferfelis/ass1/model/SimpleRetailStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TheBusinessCase_Ass1/gr/codehub/ferfelis/ass1/model/SimpleRetailStore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TheBusinessCase_Ass1/gr/codehub/ferfelis/ass1/model/Store.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TheBusinessCase_Ass1/gr/codehub/ferfelis/ass1/model/Store.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/codehub/ferfelis/ass1/Test/CustomerTesting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/codehub/ferfelis/ass1/Test/CustomerTesting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/codehub/ferfelis/ass1/app/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/codehub/ferfelis/ass1/app/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/codehub/ferfelis/ass1/model/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/codehub/ferfelis/ass1/model/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/codehub/ferfelis/ass1/model/OnlineCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/codehub/ferfelis/ass1/model/OnlineCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/codehub/ferfelis/ass1/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/codehub/ferfelis/ass1/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/codehub/ferfelis/ass1/model/SimpleRetailStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/codehub/ferfelis/ass1/model/SimpleRetailStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/codehub/ferfelis/ass1/model/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/codehub/ferfelis/ass1/model/Store.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1iXsYAPvdo6UsKSkJLjOA98eXng" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="gr.codehub.ferfelis.ass1.model" />
+    </key>
+    <key name="MoveInnerDialog.RECENTS_KEY">
+      <recent name="gr.codehub.ferfelis.ass1.model" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.codehub.ferfelis.ass1.app.Application" />
+      <module name="TheBusinessCase_Ass1" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gr.codehub.ferfelis.ass1.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerTesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.codehub.ferfelis.ass1.Test.CustomerTesting" />
+      <module name="TheBusinessCase_Ass1" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gr.codehub.ferfelis.ass1.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InventoryRetailStoreTesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.codehub.ferfelis.ass1.Test.InventoryRetailStoreTesting" />
+      <module name="TheBusinessCase_Ass1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gr.codehub.ferfelis.ass1.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnlineCustomerTesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.codehub.ferfelis.ass1.Test.OnlineCustomerTesting" />
+      <module name="TheBusinessCase_Ass1" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gr.codehub.ferfelis.ass1.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleRetailStoreTesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.codehub.ferfelis.ass1.Test.SimpleRetailStoreTesting" />
+      <module name="TheBusinessCase_Ass1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gr.codehub.ferfelis.ass1.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="TheBusinessCase_Ass1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gr.codehub.ferfelis.ass1.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="gr.codehub.ferfelis.ass1.test" />
+      <option name="MAIN_CLASS_NAME" value="gr.codehub.ferfelis.ass1.test.CustomerTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Application" />
+      <item itemvalue="Application.CustomerTesting" />
+      <item itemvalue="Application.OnlineCustomerTesting" />
+      <item itemvalue="Application.InventoryRetailStoreTesting" />
+      <item itemvalue="Application.SimpleRetailStoreTesting" />
+      <item itemvalue="JUnit.CustomerTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.InventoryRetailStoreTesting" />
+        <item itemvalue="Application.CustomerTesting" />
+        <item itemvalue="Application.OnlineCustomerTesting" />
+        <item itemvalue="Application.SimpleRetailStoreTesting" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56be979f-b57b-4131-80d5-aca6b4a40a77" name="Default Changelist" comment="" />
+      <created>1602065315688</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602065315688</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="557" y="186" key="#CustomerTest" timestamp="1602067188032">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="557" y="186" key="#CustomerTest/0.0.1920.1040@0.0.1920.1040" timestamp="1602067188032" />
+    <state x="552" y="178" key="#Project_Structure" timestamp="1602068023009">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1602068023009" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602072723259">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602072723259" />
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1602157391031">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602157391031" />
+    <state x="791" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1602069944184">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="791" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602069944184" />
+    <state x="753" y="355" key="#com.intellij.refactoring.move.moveInner.MoveInnerDialog" timestamp="1602069946744">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="753" y="355" key="#com.intellij.refactoring.move.moveInner.MoveInnerDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602069946744" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1602162618890">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602162618890" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1602162618890">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602162618890" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1602162618890">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602162618890" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1602162618890">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602162618890" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1602162618891">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602162618891" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1602162618891">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602162618891" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1602162618891">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602162618891" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1602162618891">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602162618891" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1602072124803">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602072124803" />
+    <state x="665" y="412" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1602066738313">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="665" y="412" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1602066738313" />
+    <state x="1156" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602147655475">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1156" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602147655475" />
+    <state x="731" y="222" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1602066741614">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="222" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602066741614" />
+    <state x="690" y="289" key="extract.method.dialog" timestamp="1602071113746">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="289" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602071113746" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TheBusinessCase_Ass1$TestingCustomer.ic" NAME="TestingCustomer Coverage Results" MODIFIED="1602068313130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>gr.codehub.ferfelis.ass1.test.*</FILTER>
+    </SUITE>
+  </component>
+</project>
